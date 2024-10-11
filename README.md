@@ -8,7 +8,6 @@
 
 ### ChessTournaments
 
-![Image projet 1](	https://www.apprendre-les-echecs-24h.com/wp-content/uploads/2020/03/chess-3868677_640.jpg)
 <img src="https://www.apprendre-les-echecs-24h.com/wp-content/uploads/2020/03/chess-3868677_640.jpg" alt="Chess Tournament" width="300" />
 Ce projet est une application en ligne de commande pour gérer des tournois d'échecs. Elle permet de créer des tournois, d'ajouter des joueurs, de gérer les rondes et de générer des rapports sur les tournois et les joueurs.
 [Voir le projet](https://github.com/JCOzanne/ChessTournaments)
