@@ -15,8 +15,8 @@ Ce projet est une application en ligne de commande pour gérer des tournois d'é
 ---
 
 ### JustStreamIt
-![Image projet 2](https://trendly.fr/wp-content/uploads/2015/12/affiches-films-similaires-630x360.jpg)
 
+<img src="https://trendly.fr/wp-content/uploads/2015/12/affiches-films-similaires-630x360.jpg" alt="JuststreamIt" width="300" />
 Interface utilisateur permettant de visualiser en temps réel les films les plus intéressants récupérés à partir de l'API OCMovies développée par l'association JustStreamIt.
 [Voir le projet](https://github.com/JCOzanne/JustStreamIt)
 
@@ -24,8 +24,7 @@ Interface utilisateur permettant de visualiser en temps réel les films les plus
 
 ### AlgoInvestTrade
 
-![Image projet 3](	https://s.brsimg.com/static-000/cache/i/content/im…4/d/e4d7106bf12cc789ecbe99b1afda90aa-760x507.webp)
-
+<img src="https://s.brsimg.com/static-000/cache/i/content/im…4/d/e4d7106bf12cc789ecbe99b1afda90aa-760x507.webp" alt="AlgoInvestTrade" width="300" />
 Algo Invest & Trade est une société financière spécialisée dans l'investissement. Elle souhaite optimiser ses stratégies d'investissement à l'aide d'algorithmes. Ce projet permet le calcul de la meilleure combinaisons d'actions dans lesquelles investir en fonction de leur prix et de leur rendement avec la contrainte d'un budget maximal. 
 [Voir le projet](https://github.com/JCOzanne/AlgoInvestTrade)
 
