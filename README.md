@@ -1,6 +1,6 @@
 # Jean-Christophe Ozanne
 
-**Étudiant langage Python**
+**Étudiant Développeur d'application Python**
 
 ---
 
@@ -30,9 +30,17 @@ Algo Invest & Trade est une société financière spécialisée dans l'investiss
 
 ---
 
+### LITreview
+
+<img src="https://www.wemag.fr/wp-content/uploads/2017/01/blog-litt%C3%A9raire-livre-e1485190063975.jpg" alt="LITReview" width="300" />
+LITRevu est une application Django permettant à une communauté d'utilisateurs de publier des critiques de livres ou d’articles et de consulter ou de solliciter une critique de livres à la demande.
+(https://github.com/JCOzanne/LITReview)
+
+---
+
 ## Compétences
 
-![Logo Python](https://www.python.org/static/img/python-logo@2x.png)
+![Logo Python](https://www.python.org/static/img/python-logo.png)
 ![Logo GitHub](https://yt3.googleusercontent.com/TIjqoYX2wtDSGIzj928euK_ehQh4p_EymUlDbh14ZDrJ4quntQbsURWO4yr6bzYpUX7rjIFxyw=s160-c-k-c0x00ffffff-no-rj)
 
 ---
