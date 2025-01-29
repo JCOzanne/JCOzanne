@@ -39,7 +39,7 @@ LITRevu est une application Django permettant à une communauté d'utilisateurs 
 ---
 
 ## Compétences
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 <img src="https://www.python.org/static/img/python-logo.png" alt="Logo Python" width="200">
 <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Logo GitHub" width="200">
 <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Logo Django" width="200">
