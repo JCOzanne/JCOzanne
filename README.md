@@ -40,10 +40,12 @@ LITRevu est une application Django permettant à une communauté d'utilisateurs 
 
 ## SoftDesk
 
-< img scr="https://www.univ-paris8.fr/IMG/logo/rubon673.png?1567006474" alt="SoftDesk" width="300" />
+<img src="https://www.univ-paris8.fr/IMG/logo/rubon673.png?1567006474" alt="SoftDesk" width="300" />
 Softdesk support est une API RESTful permettant à ses utilisateurs de créer des projets,
 des tâches et des problèmes pour chaque projet et des commentaires pour faciliter la communication.
 (https://github.com/JCOzanne/SoftDesk)
+
+---
 
 ## Compétences
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
