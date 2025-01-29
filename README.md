@@ -48,12 +48,15 @@ des tâches et des problèmes pour chaque projet et des commentaires pour facili
 ---
 
 ## Compétences
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-<img src="https://www.python.org/static/img/python-logo.png" alt="Logo Python" width="200">
-<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Logo GitHub" width="200">
-<img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Logo Django" width="200">
-<img src="https://www.django-rest-framework.org/img/logo.png" alt="Logo DRF" width="100">
-</div>
+
+<table>
+  <tr>
+<td><img src="https://www.python.org/static/img/python-logo.png" alt="Logo Python" width="200"></td>
+<td><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Logo GitHub" width="200"></td>
+<td><img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Logo Django" width="200"></td>
+  </tr>
+<td><img src="https://www.django-rest-framework.org/img/logo.png" alt="Logo DRF" width="100"></td>
+</table>
 ---
 
 ## Contact
