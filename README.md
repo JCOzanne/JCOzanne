@@ -49,7 +49,7 @@ des tâches et des problèmes pour chaque projet et des commentaires pour facili
 
 ## EpicEvents
 
-<img src="(https://fiches-pratiques.relationclientmag.fr/Assets/Img/FICHEPRATIQUE/2021/9/364831/Quels-sont-differents-moyens-gestion-relation-client--LE.jpg)" alt="EpicEvents " width="300" />
+<img src="https://fiches-pratiques.relationclientmag.fr/Assets/Img/FICHEPRATIQUE/2021/9/364831/Quels-sont-differents-moyens-gestion-relation-client--LE.jpg" alt="EpicEvents " width="300" />
 EpicEvents CRM est une application en ligne de commande (CLI) de gestion client (CRM).
 Elle permet à l'entreprise Epic Events de gérer ses utilisateurs, clients, contrats et événements dans le cadre de son activité d'organisation d'événements, de manière sécurisée.
 (https://github.com/JCOzanne/EpicEvents)
