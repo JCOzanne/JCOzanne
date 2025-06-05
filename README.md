@@ -73,7 +73,7 @@ Projet réalisé avec Django et déployé sur Render via Docker.
 <td><img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Logo Django" width="200"></td>
   </tr>
 <td><img src="https://www.django-rest-framework.org/img/logo.png" alt="Logo DRF" width="200"></td>
-<td><img scr="https://a.storyblok.com/f/192697/1920x1080/ac1dc4864a/docker-post.png" alt="Logo Docker" width="200"></td>
+<td><img scr="https://cdn-1.webcatalog.io/catalog/docker-hub/docker-hub-icon-filled-256.webp?v=1714774177919" alt="Logo Docker" width="200"></td>
 </table>
 ---
 
