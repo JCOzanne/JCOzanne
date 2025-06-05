@@ -58,9 +58,9 @@ Elle permet à l'entreprise Epic Events de gérer ses utilisateurs, clients, con
 
 ## OrangeCountyLettings
 
-<img src="https://www.lafinancepourtous.com/wp-content/thumb…h-460-height-260-fill-1-crop-0-bgcolor-ffffff.png" alt="OrangeCountyLettings" width="300" />
+<img src="https://www.bleuanthracite.com/images_bleu/realisa…te-internet-montbazin-location-vacances-1-107.png" alt="OrangeCountyLettings" width="300" />
 Orange County Lettings est une plateforme de gestion de locations immobilières.
-Elle permet de : consulter les annonces de locations, consulter les profils des utilisateurs (nom, ville préférée), consulter les détails d’une location (nom, adresse).
+Elle permet de : consulter les annonces de locations, consulter les profils des utilisateurs (nom, ville préférée), consulter les détails d’une location (nom, adresse).  
 Projet réalisé avec Django et déployé sur Render via Docker.
 (https://github.com/JCOzanne/OrangeCountyLettings)
 
