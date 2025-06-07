@@ -74,7 +74,7 @@ Projet réalisé avec Django et déployé sur Render via Docker.
   </tr>
 <td><img src="https://www.django-rest-framework.org/img/logo.png" alt="Logo DRF" width="200"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png" alt="Logo DRF" width="200"></td>
-<td><img scc="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*TQn3443bwk8Th99o3RdC3w.png" alt="Logo Github Actions" width="200"</td>
+  <td><img src="	https://miro.medium.com/v2/resize:fit:1100/format:webp/1*TQn3443bwk8Th99o3RdC3w.png" alt="Logo GitHub Actions" width="200"></td>
 </table>
 ---
 
